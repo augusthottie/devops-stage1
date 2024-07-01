@@ -22,8 +22,7 @@ This repository contains a Bash script (`create_users.sh`) designed to automate 
 
 1. Clone this repository:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/AugustHottie/devops-task2.git
     ```
 
 2. Prepare the user file:
@@ -86,9 +85,6 @@ mayowa;dev,www-data
 - Explore hiring opportunities: [HNG Hire](https://hng.tech/hire)
 - Check out premium services: [HNG Premium](https://hng.tech/premium)
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Author
 
