@@ -84,6 +84,7 @@ mayowa;dev,www-data
 - Learn more about the HNG Internship: [HNG Internship](https://hng.tech/internship)
 - Explore hiring opportunities: [HNG Hire](https://hng.tech/hire)
 - Check out premium services: [HNG Premium](https://hng.tech/premium)
+- Chect out my detailed article here: [Technical Article](https://dev.to/augusthottie/user-management-automation-bash-script-guide-14pl)
 
 
 ## Author
